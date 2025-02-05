@@ -32,7 +32,7 @@ PORT=3001
 MONGODB_KEY=mongodb://your-username:your-password@your-cluster-url/your-database-name
 ```
 
-### 5. Start the Server
+### 4. Start the Server
 In your terminal, run:
 
 ```bash
