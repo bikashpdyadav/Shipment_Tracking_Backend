@@ -26,8 +26,11 @@ npm install
 
 ### 3. Set Up Environment Variables
 In your .env file, add:
+
+```bash
 PORT=3001
 MONGODB_KEY=mongodb://your-username:your-password@your-cluster-url/your-database-name
+```
 
 ### 5. Start the Server
 In your terminal, run:
