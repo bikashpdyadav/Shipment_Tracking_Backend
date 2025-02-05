@@ -15,12 +15,14 @@ Clone the repository to your local machine using Git. In your terminal, run:
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
+```
 
 ### 2. Install Dependencies
 In your terminal, run:
 
 ```bash
 npm install
+```
 
 ### 3. Set Up Environment Variables
 In your .env file, add:
@@ -32,3 +34,4 @@ In your terminal, run:
 
 ```bash
 npm start
+```
